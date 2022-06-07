@@ -18,5 +18,5 @@ During the implementation of the project following metrics were calculated:
 - ARPU
 - ARPPU
 
-The chi-square test was used to compare CR in the two groups.
-The bootstrap was used to compare medians of revenue distribution in two groups.
+**The chi-square test was used to compare CR in the two groups.**
+**The bootstrap was used to compare medians of revenue distribution in two groups.**
